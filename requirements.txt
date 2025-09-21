@@ -1,0 +1,10 @@
+numpy
+sounddevice
+psutil
+pyttsx3
+SpeechRecognition
+cryptography
+librosa
+transformers
+spacy
+requests
